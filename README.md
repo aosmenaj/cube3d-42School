@@ -7,9 +7,10 @@ The goal is to create a 3D rendering engine that demonstrates your understanding
 
 ---
 
-## 📦 Compilation
+## 🛠️ Compilation
 
-To compile the project, follow these steps:
+To try the game, run:
 
-   ```bash
-   git clone https://github.com/your-username/cube3d.git
+```bash
+make
+./cub3D maps/basement.cub
